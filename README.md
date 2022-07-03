@@ -7,11 +7,13 @@ Used tools:
 * threads 
 
 Use example:
-* connect to server
+* Start server
+![Start](https://github.com/KiryaHandsome/NetworkChat/blob/main/images/ServerStart.jpg)
+* Connect to server
+![Connect](https://github.com/KiryaHandsome/NetworkChat/blob/main/images/EnterToServer.jpg)
+* Login 
+![login](https://github.com/KiryaHandsome/NetworkChat/blob/main/images/AuthorizedUser.jpg)
+* Connect another human and communicate!
+![dialog](https://github.com/KiryaHandsome/NetworkChat/blob/main/images/Conversation.jpg)
 
-* login 
-
-* connect another human
-
-* conversation
 
