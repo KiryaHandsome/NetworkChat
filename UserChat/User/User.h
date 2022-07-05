@@ -27,8 +27,6 @@ public:
 
     bool startup(const std::string &ipAddr, const std::string &port);
 
-    void execute();
-
     bool sendMessageToServer(const char *message);
 
     void sendNickname(const char *nickname);
