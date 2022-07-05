@@ -1,5 +1,4 @@
 #include "User.h"
-#include <mutex>
 
 User::User()
 {
